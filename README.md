@@ -1,4 +1,4 @@
-# 🌟 SkinFusion – AI-Powered Skin Analysis & Recommendation System
+# 🌟 SLAYSKIN – AI-Powered Skin Analysis & Recommendation System
 SkinFusion is an *AI-driven application* that analyzes facial skin images to *detect common skin conditions* and recommends suitable *skincare & medical products*.  
 Inspired by e-commerce personalization engines (like Flipkart’s recommendation workflows), this project combines *computer vision, **deep learning, and **product recommendation systems* to deliver personalized solutions
 ## 🚀 Features
